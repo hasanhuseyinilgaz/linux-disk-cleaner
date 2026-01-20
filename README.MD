@@ -22,7 +22,7 @@ linux-disk-cleaner/
 ├── researchs/          # Yapay zeka ile yapılan teknik araştırmalar
 ├── specs/              # Teknik gereksinimler ve analiz raporu
 ├── src/                # Kaynak kodlar (main.py)
-├── docs/               # Ek dokümantasyon
+├── docs/               # Ek dokümantasyon (Tanıtım Videosu, Kullanım Kılavuzu ve Sunum Dosyası)
 ├── project_info.json   # Proje kimlik kartı
 └── README.md           # Proje tanıtımı
 
