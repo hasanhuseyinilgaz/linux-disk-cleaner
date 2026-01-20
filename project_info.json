@@ -11,7 +11,7 @@
     "Self-check (Auto Test) capability"
   ],
   "requirements": {
-    "os": "Linux / MacOS",
+    "os": "Linux / MacOS / Windows",
     "language": "Python 3.10+"
   }
 }
