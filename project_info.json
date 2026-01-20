@@ -1,0 +1,17 @@
+{
+  "projectName": "Linux Disk & Process Cleaner",
+  "category": "System Administration",
+  "author": "Hasan Hüseyin ILĞAZ",
+  "version": "1.0.0",
+  "description": "A lightweight tool to monitor disk usage, clean temporary files, and manage resource-heavy processes.",
+  "features": [
+    "Auto-check disk usage threshold",
+    "Clean /tmp and cache directories",
+    "Process monitoring",
+    "Self-check (Auto Test) capability"
+  ],
+  "requirements": {
+    "os": "Linux / MacOS",
+    "language": "Python 3.10+"
+  }
+}
